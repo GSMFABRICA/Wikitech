@@ -2,7 +2,7 @@
 
 ![Alt text](logo/logo.png?raw=true "Wikitech")	
 
-  <img src="logo/logo.png" width="256" height="455">
+  <img src="logo/logo.png" width="252" height="98">
 
 
 WikiTech UFS Programmer Series is a professional tool to read and write data in each LUN of UFS IC.<br />
